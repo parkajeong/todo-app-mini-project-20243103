@@ -90,7 +90,7 @@ function App() {
     <div className="app">
       <div className="todo-container">
         <div className="hero-box">
-          <h1>todo - list</h1>
+          <h1>Todo 리스트</h1>
           <p>할 일을 정리하세요</p>
         </div>
 
