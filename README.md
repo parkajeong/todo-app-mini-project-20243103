@@ -1,8 +1,6 @@
 # Todo App Mini Project (20243103) 소프트웨어 공학 개인과제
 Project Repository: https://github.com/parkajeong/todo-app-mini-project-20243103.git
 
-___
-# Todo App
 간단한 할 일 관리 뤱 애플리케이션이다.
 
 - 프론트엔드는 React + Vite로 구성
